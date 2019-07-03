@@ -1,0 +1,61 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "alvin",
+      "email": "alvin@gmail.com",
+      "password": "satuduatiga"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "T-shirt satu",
+      "desc": "Baru Lebaran 2017, Kondisi 90%, minus box",
+      "price": 30000,
+      "src": "https://www.jakartanotebook.com/images/products/99/63/19075/2/kaos-polos-katun-pria-o-neck-size-m-81402b-or-t-shirt-black-24.jpg"
+    },
+    {
+      "id": 2,
+      "name": "t-Shirt dua",
+      "desc": "Baru Lebaran 2018, Kondisi 90%, minus box",
+      "price": 130000,
+      "src": "https://www.jakartanotebook.com/images/products/99/63/19075/2/kaos-polos-katun-pria-o-neck-size-m-81402b-or-t-shirt-black-24.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Hoodie satu",
+      "desc": "Baru Lebaran 2019, Kondisi 90%, minus box",
+      "price": 230000,
+      "src": "https://www.jakartanotebook.com/images/products/99/63/19075/2/kaos-polos-katun-pria-o-neck-size-m-81402b-or-t-shirt-black-24.jpg"
+    },
+    {
+      "name": "hoodie Dua",
+      "desc": "Baru dibuat hari ini",
+      "price": 34000,
+      "src": "https://www.jakartanotebook.com/images/products/99/63/19075/2/kaos-polos-katun-pria-o-neck-size-m-81402b-or-t-shirt-black-24.jpg",
+      "id": 4
+    },
+    {
+      "desc": "Baru dibuat setelah yag pertama",
+      "name": "Bag satu",
+      "price": 35000,
+      "src": "https://www.jakartanotebook.com/images/products/99/63/19075/2/kaos-polos-katun-pria-o-neck-size-m-81402b-or-t-shirt-black-24.jpg",
+      "id": 5
+    },
+    {
+      "desc": "Baru dibuat setelah yag pertama",
+      "name": "bag Dua",
+      "price": 35000,
+      "src": "https://www.jakartanotebook.com/images/products/99/63/19075/2/kaos-polos-katun-pria-o-neck-size-m-81402b-or-t-shirt-black-24.jpg",
+      "id": 6
+    },
+    {
+      "desc": "Sedia payung sebelum hujan",
+      "name": "Umbrella",
+      "price": 27000,
+      "src": "https://contents.mediadecathlon.com/p1487556/k$74935b53eed0d621ea4cb3e0b5cdd879/golf-umbrella-500-uv-pink.jpg",
+      "id": 7
+    }
+  ]
+}
